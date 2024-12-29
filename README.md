@@ -11,3 +11,7 @@ The scraped data is stored in [incidents-june-2023-format.json](incidents-june-2
 The scraped data was stored in [incidents.json](incidents.json)
 
 Background on this project: [Git scraping: track changes over time by scraping to a Git repository](https://simonwillison.net/2020/Oct/9/git-scraping/)
+
+-----
+
+We should probably transform this data to our own public database of mosques in the uk 
