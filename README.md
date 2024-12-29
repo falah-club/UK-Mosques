@@ -15,3 +15,5 @@ Background on this project: [Git scraping: track changes over time by scraping t
 -----
 
 We should probably transform this data to our own public database of mosques in the uk 
+
+We can find duplicates through the lon and lat being within range of an existing record
